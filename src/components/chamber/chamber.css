@@ -6,6 +6,7 @@
     margin-right: 20px;
     margin-bottom: 20px;
     max-width: 200px;
+    box-shadow: 0 0 #D6D6D6, 6px 3px 0.4em #D6D6D6;
 }
 
 .chamberHeader {
